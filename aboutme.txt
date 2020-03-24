@@ -1,0 +1,5 @@
+Name: Edwin Deborah
+email: edwind704@gmail.com
+slack username: Deborah 
+Tracks: Front End, Design, Coding
+Courses: HTML, CSS, javascript, Design
